@@ -2,3 +2,4 @@ from colorama import init
 from termcolor import colored
 init()
 print(colored("Marta","red"))
+print("to koniec")
